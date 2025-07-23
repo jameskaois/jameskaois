@@ -1,9 +1,8 @@
-<table>
-  <tr>
-    <td><img src="./gif1.webp" alt="GIF 1" width="100%" /></td>
-    <td><img src="./gif2.gif" alt="GIF 2" width="100%" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="gif1.webp" alt="GIF 1" width="49%" />
+  <img src="gif2.gif" alt="GIF 2" width="49%" />
+</p>
+
 
 
 # 🛡️ James Cao | Cybersecurity Student
