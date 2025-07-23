@@ -1,5 +1,9 @@
-<div style="display:flex;"><img src="./gif1.webp" alt="Banner" style="width: 50%; height: auto;" />
-<img src="gif2.gif" alt="Banner" style="width: 50%; height: auto;" /></div>
+<table>
+  <tr>
+    <td><img src="./gif1.webp" alt="GIF 1" width="100%" /></td>
+    <td><img src="./gif2.gif" alt="GIF 2" width="100%" /></td>
+  </tr>
+</table>
 
 
 # 🛡️ James Cao | Cybersecurity Student
