@@ -17,4 +17,4 @@ jobs:
       - name: Update README with Recent Activity
         uses: Readme-Workflows/recent-activity@v2.4.1
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: jameskaois
