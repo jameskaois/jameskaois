@@ -35,9 +35,9 @@
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 <p align="center" style="margin-top:40px;">
 <a href="https://www.linkedin.com/in/hpcao299/" target="_blank"><img style="height:32px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/linkedin.webp"></a>
