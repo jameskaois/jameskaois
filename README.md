@@ -40,11 +40,11 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-4. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-5. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
+2. 📔 Created new repository [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
+3. 📔 Created new repository [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
+4. 📔 Created new repository [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
+5. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center" style="margin-top:40px;">
