@@ -40,7 +40,11 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
+1. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
+2. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+3. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+4. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+5. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center" style="margin-top:40px;">
