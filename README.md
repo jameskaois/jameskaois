@@ -40,8 +40,8 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
+2. ⭐ Starred [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 3. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 4. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 5. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
