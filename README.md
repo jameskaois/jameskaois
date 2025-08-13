@@ -12,6 +12,7 @@
 
 - 🎓 Deep diving into **Cybersecurity**.
 - 🧠 Passionate about **ethical hacking**, **network security**, and **digital forensics**.
+- 🔎 Exploring the latest threats and defenses in Cybersecurity.
 - ✍️ Sharing my journey & projects along the way
 
 
