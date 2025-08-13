@@ -6,12 +6,11 @@
 
 
 <h1 align="center">👋 Hi there, I'm James Cao</h1>
-<p align="center">🎓 Cybersecurity Student | 🛡️ Aspiring Ethical Hacker | 💻 Tech Lover</p>
+<p align="center">🎓 Cybersecurity Enthusiast | 🛡️ Aspiring Ethical Hacker | 💻 Tech Lover</p>
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **CyberSecurity** at University of Information Technology - UIT.
-- 👨‍💻 Background in **web application development** (HTML, CSS, JS, React, Node.js, MySQL).
+- 🎓 Deep diving into **Cybersecurity**.
 - 🧠 Passionate about **ethical hacking**, **network security**, and **digital forensics**.
 - ✍️ Sharing my journey & projects along the way
 
@@ -47,7 +46,5 @@
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center" style="margin-top:40px;">
-<a href="https://www.linkedin.com/in/hpcao299/" target="_blank"><img style="height:32px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/linkedin.webp"></a>
 <a href="https://x.com/jameskaois" target="_blank"><img style="height:32px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/x.jpeg"></a>
-<a href="https://www.producthunt.com/@jameskaois69" target="_blank"><img style="height:32px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/producthunt.svg"></a>
 </p>
