@@ -13,7 +13,6 @@
 - 🎓 Currently studying **CyberSecurity** at University of Information Technology - UIT.
 - 👨‍💻 Background in **web application development** (HTML, CSS, JS, React, Node.js, MySQL).
 - 🧠 Passionate about **ethical hacking**, **network security**, and **digital forensics**.
-- 🎯 On a mission to **land my first role in Cybersecurity**
 - ✍️ Sharing my journey & projects along the way
 
 
