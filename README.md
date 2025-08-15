@@ -39,10 +39,10 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
+1. ⬆️ Pushed 2 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 2. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 3. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
-4. ⬆️ Pushed 1 commit(s) to [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
+4. ⬆️ Pushed 1 commit(s) to [jameskaois/overthewire-solutions](https://github.com/jameskaois/overthewire-solutions)<br>
 5. ⬆️ Pushed 1 commit(s) to [jameskaois/hack-github-contribution-graph](https://github.com/jameskaois/hack-github-contribution-graph)<br>
 <!--RECENT_ACTIVITY:end-->
 
