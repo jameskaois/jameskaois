@@ -39,11 +39,11 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 2. ⬆️ Pushed 2 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-4. ⬆️ Pushed 1 commit(s) to [jameskaois/atheros-ar9271-chipset-adapter-linux](https://github.com/jameskaois/atheros-ar9271-chipset-adapter-linux)<br>
-5. ⬆️ Pushed 6 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+3. ⬆️ Pushed 2 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+4. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+5. ⬆️ Pushed 1 commit(s) to [jameskaois/atheros-ar9271-chipset-adapter-linux](https://github.com/jameskaois/atheros-ar9271-chipset-adapter-linux)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center" style="margin-top:40px;">
