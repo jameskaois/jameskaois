@@ -39,8 +39,8 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+2. 📔 Created new repository [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 3. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 4. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 5. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
