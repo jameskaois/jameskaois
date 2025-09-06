@@ -40,8 +40,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-2. 📔 Created new repository [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+2. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+3. 📔 Created new repository [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 4. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 5. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 <!--RECENT_ACTIVITY:end-->
