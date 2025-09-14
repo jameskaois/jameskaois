@@ -39,13 +39,20 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-2. ⬆️ Pushed 2 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-4. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+2. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+3. ⬆️ Pushed 2 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+4. ⬆️ Pushed 2 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 5. ⬆️ Pushed 2 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<p align="center" style="margin-top:40px;">
-<a href="https://x.com/jameskaois" target="_blank"><img style="height:32px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/x.jpeg"></a>
+<p align="center">
+  <a href="https://x.com/jameskaois">
+    <img src="https://img.shields.io/badge/X-1.02k%20followers-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" 
+         alt="X — 1.02k followers" height="30"/>
+  </a>
+  <a href="https://tryhackme.com/p/jameskaois">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25-3AB54A?style=for-the-badge&logo=tryhackme&logoColor=ffffff" 
+         alt="TryHackMe — Top 10%" height="30"/>
+  </a>
 </p>
