@@ -39,10 +39,10 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-3. ⬆️ Pushed 2 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
-4. ⬆️ Pushed 3 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
+1. ⬆️ Pushed 2 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
+2. ⬆️ Pushed 4 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
+3. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+4. ⬆️ Pushed 2 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
 5. ⬆️ Pushed 3 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
 <!--RECENT_ACTIVITY:end-->
 
