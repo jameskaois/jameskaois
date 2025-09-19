@@ -39,11 +39,11 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
+1. ⬆️ Pushed 1 commit(s) to [jameskaois/learning-cpp](https://github.com/jameskaois/learning-cpp)<br>
+2. 📔 Created new repository [jameskaois/learning-c-](https://github.com/jameskaois/learning-c-)<br>
+3. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 4. ⬆️ Pushed 1 commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-5. ⬆️ Pushed 1 commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+5. ⬆️ Pushed 1 commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
