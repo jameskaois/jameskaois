@@ -40,10 +40,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
-2. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
-4. ⬆️ Pushed 3 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
-5. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+2. ⬆️ Pushed 2 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
+3. ⬆️ Pushed 1 commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+4. ⬆️ Pushed 1 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
+5. ⬆️ Pushed 3 commit(s) to [jameskaois/dvwa-vulnerabilities](https://github.com/jameskaois/dvwa-vulnerabilities)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
