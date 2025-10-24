@@ -41,7 +41,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
 2. ⬆️ Pushed undefined commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
-3. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+3. ⬆️ Pushed undefined commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
 4. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 5. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 <!--RECENT_ACTIVITY:end-->
