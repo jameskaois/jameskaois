@@ -39,10 +39,10 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+1. ❗️ Opened issue [#490](https://github.com/moonD4rk/HackBrowserData/issues/490) in [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)<br>
 2. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 3. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-4. ⬆️ Pushed undefined commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
+4. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 5. ⬆️ Pushed undefined commit(s) to [jameskaois/hacking-material](https://github.com/jameskaois/hacking-material)<br>
 <!--RECENT_ACTIVITY:end-->
 
