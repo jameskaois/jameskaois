@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Deep diving into **Cybersecurity**.
-- 🧠 Passionate about **ethical hacking**, **network security**, and **web security**.
+- 🎓 Deep diving into Cybersecurity.
+- 🧠 Passionate about ethical hacking, network security, and web security.
 - 🔎 Exploring the latest threats and defenses in Cybersecurity.
 - ✍️ Sharing my journey & projects along the way
 
