@@ -11,11 +11,11 @@
 ## 🚀 About Me
 
 - 🎓 Deep diving into **Cybersecurity**.
-- 🧠 Passionate about **ethical hacking**, **network security**, and **digital forensics**.
+- 🧠 Passionate about **ethical hacking**, **network security**, and **web security**.
 - 🔎 Exploring the latest threats and defenses in Cybersecurity.
 - ✍️ Sharing my journey & projects along the way
 
-
+<!--
 ## 🛠️ Skills & Tools
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/apple.svg"></span>
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/windows.svg"></span>
@@ -35,6 +35,7 @@
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/wireshark.svg"></span>
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/aircrack-ng.png"></span>
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/openvas.png"></span>
+-->
 
 ## Recent Activity
 
