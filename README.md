@@ -42,9 +42,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 2. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-3. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+3. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 4. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-5. ❗️ Opened issue [#490](https://github.com/moonD4rk/HackBrowserData/issues/490) in [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)<br>
+5. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
