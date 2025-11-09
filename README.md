@@ -53,7 +53,7 @@
          alt="X — 1.02k followers" height="30"/>
   </a>
   <a href="https://tryhackme.com/p/jameskaois">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%209%25-3AB54A?style=for-the-badge&logo=tryhackme&logoColor=ffffff" 
+    <img src="https://img.shields.io/badge/TryHackMe-Top%208%25-3AB54A?style=for-the-badge&logo=tryhackme&logoColor=ffffff" 
          alt="TryHackMe — Top 8%" height="30"/>
   </a>
 </p>
