@@ -42,9 +42,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 2. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-3. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
+3. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 4. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
-5. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
+5. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf](https://github.com/jameskaois/ctf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
