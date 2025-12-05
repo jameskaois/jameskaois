@@ -8,12 +8,12 @@
 <h1 align="center">👋 Hi there, I'm James Cao</h1>
 <p align="center">🎓 Cybersecurity Enthusiast | 🛡️ Aspiring Ethical Hacker | 💻 Tech Lover</p>
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Deep diving into Cybersecurity.
-- 🧠 Passionate about ethical hacking, network security, and web security.
-- 🔎 Exploring the latest threats and defenses in Cybersecurity.
-- ✍️ Sharing my journey & projects along the way.
+- Deep diving into Cybersecurity.
+- Passionate about ethical hacking, network security, and web security.
+- Exploring the latest threats and defenses in Cybersecurity.
+- Sharing my journey & projects along the way.
 
 <!--
 ## 🛠️ Skills & Tools
@@ -47,13 +47,16 @@
 5. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
+## My Playground
 <p align="center">
-  <a href="https://x.com/jameskaois">
-    <img src="https://img.shields.io/badge/X-1.02k%20followers-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" 
-         alt="X — 1.02k followers" height="30"/>
-  </a>
-  <a href="https://tryhackme.com/p/jameskaois">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%208%25-3AB54A?style=for-the-badge&logo=tryhackme&logoColor=ffffff" 
-         alt="TryHackMe — Top 8%" height="30"/>
-  </a>
+  <a href="https://tryhackme.com/p/jameskaois"><img src="https://tryhackme-badges.s3.amazonaws.com/jameskaois.png" alt="My TryHackMe Stats" width="49%" /></a>
+  <a href="https://app.hackthebox.com/public/users/2924947"><img src="https://www.hackthebox.com/badge/image/2924947" alt="My HackTheBox Stats" width="49%" /></a>
+</p>
+<p align="center">
+<a href="https://dreamhack.io/users/88740"><img
+  src="https://jameskaois-dreamhack-badge.vercel.app/api/my-badge"
+  alt="My Dreamhack Stats"
+  width="50%"
+/>
+</a>
 </p>
