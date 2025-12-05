@@ -40,11 +40,11 @@
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
+1. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
 2. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
-3. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf-writeups](https://github.com/jameskaois/ctf-writeups)<br>
-4. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
-5. ⬆️ Pushed undefined commit(s) to [jameskaois/my-website](https://github.com/jameskaois/my-website)<br>
+3. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
+4. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
+5. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf-writeups](https://github.com/jameskaois/ctf-writeups)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## My Playground
