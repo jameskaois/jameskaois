@@ -41,8 +41,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf-writeups](https://github.com/jameskaois/ctf-writeups)<br>
-2. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
-3. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
+2. ⬆️ Pushed undefined commit(s) to [jameskaois/ctf-writeups](https://github.com/jameskaois/ctf-writeups)<br>
+3. ⬆️ Pushed undefined commit(s) to [jameskaois/jameskaois](https://github.com/jameskaois/jameskaois)<br>
 4. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
 5. ⬆️ Pushed undefined commit(s) to [jameskaois/dreamhack-badge-generator](https://github.com/jameskaois/dreamhack-badge-generator)<br>
 <!--RECENT_ACTIVITY:end-->
