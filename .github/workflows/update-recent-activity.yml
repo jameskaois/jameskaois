@@ -1,17 +1,26 @@
-name: Update README
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
-  workflow_dispatch:
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Allows you to manually trigger it for testing
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
+    name: Update this repo's README with recent activity
+    
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@2.4.1
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Recent Activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # OPTIONS - customize these as you like
+          max_lines: 5
+          commit_message: "Update README with recent activity"
+          show_os: false
