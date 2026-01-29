@@ -8,21 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # 👇 ADD THIS BLOCK HERE 👇
     permissions:
       contents: write
-    # 👆 THIS FIXES THE 128 ERROR 👆
-
-    name: Update this repo's README with recent activity
-    
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
-      - name: Recent Activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
+
+      - name: Update Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          max_lines: 5
+          MAX_LINES: 5
+          COMMIT_NAME: "GitHub Activity Bot"
+          COMMIT_EMAIL: "action@github.com"
