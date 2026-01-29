@@ -2,13 +2,18 @@ name: Update Recent Activity
 
 on:
   schedule:
-    # Runs every 30 minutes
     - cron: "*/30 * * * *"
-  workflow_dispatch: # Allows you to manually trigger it for testing
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 👇 ADD THIS BLOCK HERE 👇
+    permissions:
+      contents: write
+    # 👆 THIS FIXES THE 128 ERROR 👆
+
     name: Update this repo's README with recent activity
     
     steps:
@@ -20,7 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # OPTIONS - customize these as you like
           max_lines: 5
-          commit_message: "Update README with recent activity"
-          show_os: false
