@@ -6,7 +6,7 @@
 
 
 <h1 align="center">👋 Hi there, I'm James Cao</h1>
-<p align="center">🎓 Cybersecurity Enthusiast | 🛡️ Aspiring Ethical Hacker | 💻 Tech Lover</p>
+<p align="center">Web Security Enthusiast | Aspiring Penetration Tester</p>
 
 ## About Me
 
@@ -36,10 +36,6 @@
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/aircrack-ng.png"></span>
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/openvas.png"></span>
 -->
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
 
 ## My Playground
 <p align="center">
