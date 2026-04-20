@@ -38,6 +38,8 @@
 -->
 
 ## My Playground
+- My CTF Team: [ctftime.org/team/407868](https://ctftime.org/team/407868)
+
 <p align="center">
   <a href="https://tryhackme.com/p/jameskaois"><img src="https://tryhackme-badges.s3.amazonaws.com/jameskaois.png" alt="My TryHackMe Stats" width="49%" /></a>
   <!--<a href="https://app.hackthebox.com/public/users/2924947"><img src="https://www.hackthebox.com/badge/image/2924947" alt="My HackTheBox Stats" width="49%" /></a>-->
