@@ -15,6 +15,8 @@
 - Exploring the latest threats and defenses in Cybersecurity.
 - Sharing my journey & projects along the way.
 
+> Currently aiming to get the CPTS certification from HackTheBox.
+
 <!--
 ## 🛠️ Skills & Tools
 <span><img style="height:28px;width:auto;" src="https://raw.githubusercontent.com/jameskaois/jameskaois/refs/heads/main/logos/apple.svg"></span>
